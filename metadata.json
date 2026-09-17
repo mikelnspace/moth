@@ -1,0 +1,12 @@
+{
+  "name": "Mempool Moth",
+  "series": 7,
+  "card_number": 21,
+  "issued": 144,
+  "fee_marker": "1 sat/vB",
+  "rarity_tier": "Night Fee",
+  "flavor_text": "Guards every transaction too cheap to confirm. Has been waiting since the last halving. Will wait for the next.",
+  "image": "mempool-moth.png",
+  "original_work": true,
+  "license": "CC0-1.0"
+}
