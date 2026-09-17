@@ -1,4 +1,4 @@
-# Mempool Moth 🌙🦋
+# Mempool Moth 
 
 ![Mempool Moth](./mempool-moth.png)
 
